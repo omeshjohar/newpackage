@@ -1,0 +1,10 @@
+<!--
+%\VignetteEngine{knitr::knitr}
+%\VignetteIndexEntry{My First R package}
+-->
+
+# Vignette for the package "packR"
+#Use this function to compute the mean of a vector:
+#use this function to compute the standard deviation of a vector:
+
+

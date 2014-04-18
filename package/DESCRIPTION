@@ -1,0 +1,11 @@
+Package: packR
+Title: My first R package
+Description: The idea for this package is to try out whether we can write and
+    install a very small package
+Version: 0.1
+Author: Omesh Johar <omesh@iastate.edu>
+    Maintainer: Omesh Johar <omesh@iastate.edu>
+    License: ISU
+
+VignetteBuilder: knitr
+Suggests: knitr
